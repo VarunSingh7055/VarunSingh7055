@@ -5,6 +5,6 @@
 - 📫 How to reach me - 9368159196
 
 <!---
-VarunSingh7055/VarunSingh7055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Varun Singh Saini  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
